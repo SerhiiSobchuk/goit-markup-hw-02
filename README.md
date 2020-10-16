@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-HW-01 site layout
+# goit-markup-hw-02
+HW-02 site layout
