@@ -125,7 +125,6 @@ body {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
-    text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -139,7 +138,6 @@ body {
     line-height: 1.87;
     display: flex;
     align-items: center;
-    text-align: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
     background-color: #2196F3;
@@ -152,7 +150,6 @@ body {
     font-weight: bold;
     font-size: 14px;
     line-height: 1.142;
-    text-align: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #212121;
@@ -164,7 +161,6 @@ body {
     font-weight: bold;
     font-size: 36px;
     line-height: 1.166;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #212121;
 }
@@ -174,7 +170,6 @@ body {
     font-family: Roboto;
     font-size: 16px;
     line-height: 1.187;
-    text-align: center;
     letter-spacing: 0.03em;
     color: #757575;
 }
@@ -210,4 +205,35 @@ body {
     line-height: 1.71;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+}
+
+/* 2 страница кнопки */
+.page2-button-vse {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+.page2-buttons {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background-color: #F5F4FA;
+}
+
+/* p на 2 странице */
+.page2-p-h3 {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;
+    color: #757575;
 }
