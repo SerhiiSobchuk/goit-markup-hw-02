@@ -129,3 +129,15 @@ body {
     background-color: #2196F3;
 }
 
+
+/* все h2 с двух страниц + члены команды, робото 500 болд */
+.h3-all {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.142;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+
+}
