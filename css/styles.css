@@ -70,18 +70,23 @@ body {
 
 /* все ссылки */
 .link {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.142;
+    letter-spacing: 0.02em;
     color: inherit;
     text-decoration: none;
-}
-
-/* для header */
-.header-all {
-    background-color: #ffffff;
 }
 
 .link:hover,
 .link:focus {
     color: var(--accent-text-color);
+}
+
+/* для header */
+.header-all {
+    background-color: #ffffff;
 }
 
 /* Web + Studio */
@@ -137,7 +142,6 @@ body {
     font-size: 16px;
     line-height: 1.87;
     display: flex;
-    align-items: center;
     letter-spacing: 0.06em;
     color: #FFFFFF;
     background-color: #2196F3;
@@ -210,7 +214,6 @@ body {
 /* 2 страница кнопки */
 .page2-button-vse {
     font-family: Roboto;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
@@ -237,3 +240,4 @@ body {
     letter-spacing: 0.03em;
     color: #757575;
 }
+
